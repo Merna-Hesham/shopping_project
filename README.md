@@ -38,8 +38,8 @@ The app uses Flutter's **internationalization (i18n)** with `flutter_localizatio
 - Android Studio / VS Code with Flutter plugin
 
 ### 2. Clone the Repository
-- git clone https://github.com/your-username/shopify-flutter.git
-cd shopify-flutter
+- git clone [https://github.com/Merna-Hesham/shopping_project](https://github.com/Merna-Hesham/shopping_project).git
+cd shopping_projecy
 
 ### 3. Install Dependencies
 - flutter pub get
